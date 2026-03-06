@@ -161,7 +161,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= 'Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -271,7 +271,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       social = false
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = "本站所有内容均为作者个人观赛感受与情绪表达，不构成事实陈述或专业意见。请勿对号入座。"
+      disclaimer = "本站所有内容均为作者个人观赛感受与情绪表达，不构成事实陈述或专业意见。请勿对号入座。</br>本站与任何体育联盟、俱乐部、车队、赛事组织或相关商业机构不存在隶属或合作关系。"
     # Home page posts
     # 主页文章列表
     [params.home.posts]
